@@ -32,7 +32,7 @@ https://www.linkedin.com/in/preetesh19/
 ### I’ve not used this - but still here for reference
 * [Get your anaconda ready with brew install](https://flinhong.com/2018/01/27/get-anaconda-ready-with-brew/)
 
-## INTRO
+## Intro
 1. [Your First Machine Learning Project in Python Step-By-Step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 2. [Machine Learning is Fun! – Adam Geitgey – Medium](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 3. [A Production ready Multi-Class Text Classifier – Towards Data Science](https://towardsdatascience.com/a-production-ready-multi-class-text-classifier-96490408757)
@@ -42,19 +42,19 @@ https://www.linkedin.com/in/preetesh19/
 7. https://www.kdnuggets.com/2015/01/text-analysis-101-document-classification.html
 8. [Machine Learning, NLP: Text Classification using scikit-learn, python and NLTK.](https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a)
 
-## MID
+## Mid
 1. https://towardsdatascience.com/supervised-vs-unsupervised-learning-14f68e32ea8d
 2. https://towardsdatascience.com/non-standard-weakly-supervised-classification-problems-51b23211d4bc
 3. [Mathematical View of Support Vector Machine — Power of Machine Learning and Aritificial…](https://medium.com/@pushkarmandot/mathematical-view-of-support-vector-machine-power-of-machine-learning-and-aritificial-5c62cea71f3f)
 4. https://medium.com/@pushkarmandot/what-is-the-significance-of-c-value-in-support-vector-machine-28224e852c5a
 5. [Python Programming Tutorials](https://pythonprogramming.net/search/?q=machine+learning)
 
-## ADVANCED
+## Advanced
 1. [Deep Learning With Apache Spark — Part 1 – Towards Data Science](https://towardsdatascience.com/deep-learning-with-apache-spark-part-1-6d397c16abd)
 2. [How to build a collaborative filtering model for personalized recommendations using TensorFlow and…](https://towardsdatascience.com/how-to-build-a-collaborative-filtering-model-for-personalized-recommendations-using-tensorflow-and-b9a77dc1320)
 3.  
 
-## SOME OTHERS - EXERCISES
+## Some others - Exercises
 1. [10 Classifier Showdown in Scikit-Learn | Kaggle](https://www.kaggle.com/jeffd23/10-classifier-showdown-in-scikit-learn)
 2. https://www.kaggle.com/c/cdiscount-image-classification-challenge
 3. https://www.kaggle.com/c/titanic
@@ -62,15 +62,15 @@ https://www.linkedin.com/in/preetesh19/
 5. [Introduction to Computer Science and Programming in Python | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 6.  
 
-## PUBLIC DATA-SETS
+## Public Data-sets
 1. [List of Public Data Sources Fit for Machine Learning | The Official Blog of BigML.com](https://blog.bigml.com/list-of-public-data-sources-fit-for-machine-learning/)
 2.  [ML-friendly Public Datasets | Kaggle](https://www.kaggle.com/annavictoria/ml-friendly-public-datasets)
 3. [ML document categorization - Google Search](https://www.google.com/search?q=ML+document+categorization&ie=utf-8&oe=utf-8&client=firefox-b-ab)
 
-## GENERAL
+## General
 1. [7 Ways to Handle Large Data Files for Machine Learning](https://machinelearningmastery.com/large-data-files-machine-learning/)
 
-## INTERVIEWS
+## Interviews
 1. https://towardsdatascience.com/how-to-ace-data-science-interviews-r-python-3a49982000de
 2. [Data Science Interview Guide – Towards Data Science](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
 
