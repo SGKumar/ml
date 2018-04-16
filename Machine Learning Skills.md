@@ -26,10 +26,11 @@ https://www.linkedin.com/in/madhugopinathan/
 https://www.linkedin.com/in/preetesh19/
 
 ## Installing python
-[Setting Up Your Python Environment on a Mac — davidculley.com](https://www.davidculley.com/installing-python-on-a-mac/)
-[Keep Anaconda from Constricting Your Homebrew Installs | Hashrocket](https://hashrocket.com/blog/posts/keep-anaconda-from-constricting-your-homebrew-installs)
+* [Setting Up Your Python Environment on a Mac — davidculley.com](https://www.davidculley.com/installing-python-on-a-mac/)
+* [Keep Anaconda from Constricting Your Homebrew Installs | Hashrocket](https://hashrocket.com/blog/posts/keep-anaconda-from-constricting-your-homebrew-installs)
+
 ### I’ve not used this - but still here for reference
-[Get your anaconda ready with brew install](https://flinhong.com/2018/01/27/get-anaconda-ready-with-brew/)
+* [Get your anaconda ready with brew install](https://flinhong.com/2018/01/27/get-anaconda-ready-with-brew/)
 
 ## INTRO
 1. [Your First Machine Learning Project in Python Step-By-Step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
