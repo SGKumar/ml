@@ -31,6 +31,11 @@ https://www.linkedin.com/in/preetesh19/
 ### I’ve not used this - but still here for reference
 * [Get your anaconda ready with brew install](https://flinhong.com/2018/01/27/get-anaconda-ready-with-brew/)
 
+## Current Book
+* [Python for Data Analysis, 2nd Edition Book](https://www.safaribooksonline.com/library/view/python-for-data/9781491957653/)
+* https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/?siteID=a1o1REVAqJg-ThsZMpGQlsPBDA0NNKaZZA&LSNPUBID=a1o1REVAqJg
+* Jupyter notebooks for Udemy course - https://github.com/juinc/python_data_science_and_machine_learning_bootcamp
+
 ## Intro
 1. [Your First Machine Learning Project in Python Step-By-Step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 2. [Machine Learning Crash Course   |  Google Developers](https://developers.google.com/machine-learning/crash-course/)
